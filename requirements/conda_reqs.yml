@@ -1,0 +1,45 @@
+name: fhe1
+channels:
+- https://conda.anaconda.org
+dependencies:
+- pydocstyle
+- pygraphviz
+- pytest-xdist
+- nbsphinx
+- jinja2
+- tomlkit
+- jupyter
+- nbqa
+- python=3.9
+- mypy
+- pytest-randomly
+- graphviz
+- nbmake
+- types-setuptools=57.4.2
+- skorch
+- keyring
+- pandas
+- pylint
+- flake8
+- pytorch
+- nb_conda
+- mdformat
+- scipy
+- pytest
+- setuptools=58
+- jupyterlab
+- setuptools-scm
+- darglint
+- numpy
+- pipdeptree
+- pip
+- types-pkg_resources
+- xgboost
+- python-semantic-release
+- pip-audit
+- onnx
+- isort
+- scikit-learn
+- flake8-bugbear
+- semver
+
